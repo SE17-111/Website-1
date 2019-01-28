@@ -1,0 +1,252 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family: 'Oxygen', sans-serif;
+}
+.hero{
+	
+	height:100vh;
+	border:0px solid black;
+	background:linear-gradient(170deg,#2196f394,#1bff00ba);
+	color:white;
+	font-family: 'Oxygen', sans-serif;
+	font-size:30px;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	justify-content:center;
+}
+/*
+=============================================================================================================================================
+																Header
+=============================================================================================================================================
+*/
+.navigation {
+	width:100%;
+	height:70px;
+	background-color:yellow;
+}	
+.navigation ul{
+	text-align:center;
+}
+.navigation ul li{
+	display:inline;
+}
+.navigation ul li a{
+	text-decoration:none;
+	color:black;
+	display:inline-block;
+	line-height:70px;
+	padding:0px 20px 0px 20px;
+	font-size:20px;
+}
+/*
+=============================================================================================================================================
+															Navigation
+=============================================================================================================================================
+*/
+.Services{
+	width:100%;
+	*/height:500px;
+	background-color:hsl(0,0%,95%);
+	text-align:center;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+.hd{
+	font-size:50px;
+	padding-top:50px;
+
+}
+.img{
+	width:150px;
+	height:150px;
+	padding-top:25px;
+	padding-bottom:25px;
+}
+.area{
+	padding-top:50px;
+	display:flex;	
+}
+.paa{
+	padding:0px 20px 0px 20px;	
+}
+/*
+=============================================================================================================================================
+														Services
+=============================================================================================================================================
+*/
+.about{
+	width:100%;
+	height:600px;
+	border:0px solid red;
+	text-align:center;
+	background-image:url(website.jpg);
+	background-attachment:fixed;
+	
+}
+
+.paaa{
+	width:80%;
+	background-color:rgb(0,0,0,0.1);
+	padding:50px 50px 50px 50px;
+	margin:auto;
+	font-size:15px;
+	font-family: 'Oxygen', sans-serif;
+}
+.btn{
+	width:100px; 
+	background-color:rgba(0,0,0,0.1);
+	padding:10px;
+	border:0.5px solid skyblue;
+	color:white;
+	cursor:pointer;
+	font-family: 'Oxygen', sans-serif;
+}
+/*
+=============================================================================================================================================
+																Our Taeam
+=============================================================================================================================================
+*/
+.ourteam{
+	width:100%;
+	height:500px;	
+}
+
+hr{
+	width:150px;
+	margin-top:10px;
+}
+.pic{
+	width:150px;
+	height:150px;
+	border-radius:50px;
+	
+}
+.our{
+	display:flex;
+}
+.t1{
+	width:20%;
+	height:300px;
+	margin:auto;
+	padding-top:50px;
+	background-color:rgba(237,247,253,0.9);
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	
+}
+.hd1{
+	font-size:50px;
+	padding-top:50px;
+	padding-left:42.5%;
+	margin-bottom:50px;
+}
+.p1{
+	text-align:center;
+	font-family: 'Oxygen', sans-serif;
+	
+}
+/*
+=============================================================================================================================================
+													INFORMATION	
+=============================================================================================================================================
+*/
+.info{
+	margin-top:0px;
+	width:100%;
+	height:100px;
+	background-color:yellow;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+
+.infor{
+	width:20%;
+	font-family: 'Oxygen', sans-serif;
+	font-size:25px;
+	margin-left:40px;
+}
+/*
+=============================================================================================================================================
+															FEEDBACK
+=============================================================================================================================================
+*/
+.feedBack{
+width:100%;
+height:450px;
+border:2px solid black;
+background-color:#f2f4f2;
+}
+.haris{
+width:100%;
+height:450px;
+background-color:#f2f4f2
+
+}
+.haris1{
+width:40%;
+height:450px;
+border:0px solid black;
+background-color:#f2f4f2;
+float:left;
+text-align:center;
+margin-top:50px;
+}
+.haris2{
+width:60%;
+height:450px;
+border:0px solid black;
+background-color:#f2f4f2;
+float:left;
+margin-top:50px;
+}
+.pappu{
+	margin-top:25px;
+}
+span{
+	border:1px solid blue;
+	padding:auto;	
+}
+.pap{
+	margin-top:25px;
+}
+
+.btn1{
+	width:150px; 
+	background-color:rgba(0,0,0,0.1);
+	padding:10px;
+	border:0.5px solid skyblue;
+	cursor:pointer;
+	font-family: 'Oxygen', sans-serif;
+}
+.hd3{
+	margin-top:25px;
+}
+.spaa{
+	margin-left:170px;
+	border:0px solid red;
+}
+.ft{
+	width:100%;
+	height:220px;
+	background-color:black;
+	
+	}
+.ft1{
+	width:33.3%;
+	height:220px;
+	border:0px solid red;
+	float:left;
+	text-align:center;
+	color:white;
+	background-color:black;
+	
+	}
+	.pin{
+		margin:18px 18px 18px 18px;
+		
+	}
